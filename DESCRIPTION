@@ -1,6 +1,6 @@
 Package: practice
 Title: ABC(ABC)
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: 
     person("First", "Last", , "agup0027@student.monash,edu", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
@@ -11,3 +11,6 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
 URL: https://github.com/agup0027/practice
 BugReports: https://github.com/agup0027/practice/issues
+Depends: 
+    R (>= 2.10)
+LazyData: true
