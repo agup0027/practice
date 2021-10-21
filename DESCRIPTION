@@ -2,7 +2,7 @@ Package: practice
 Title: ABC
 Version: 0.1.0
 Authors@R: 
-    person("AG", "G", email = "agup0027@student.monash,edu", role = c("aut", "cre", "cph"))
+    person(given = "Ambalika", last = "Gupta", email = "agup0027@student.monash.edu", role = c("aut", "cre", "cph"))
 Description: The second and subsequent lines.
 License: GPL (>= 3)
 Encoding: UTF-8
