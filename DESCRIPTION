@@ -1,10 +1,9 @@
 Package: practice
-Title: ABC(ABC)
+Title: ABC
 Version: 0.1.0
 Authors@R: 
-    person("First", "Last", , "agup0027@student.monash,edu", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: ABC.
+    person("AG", "G", email = "agup0027@student.monash,edu", role = c("aut", "cre"))
+Description: ABC(ABC).
 License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
